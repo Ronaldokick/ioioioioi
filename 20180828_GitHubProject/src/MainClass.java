@@ -5,13 +5,8 @@ public class MainClass {
 		System.out.println("asasasas");
 		System.out.println("asasasas");
 		System.out.println("asasasas");
-		System.out.println("asasasas");
-		System.out.println("asasasas");
-		System.out.println("asasasas");
-		System.out.println("asasasas");
-		System.out.println("asasasas");
-		System.out.println("asasasas");
-		System.out.println("asasasas");
+		System.out.println("aaa");
+	
 	}
 
 }
